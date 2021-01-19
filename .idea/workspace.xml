@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9921dce-2a5f-4661-a534-b4de4bf29a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/config/fbServiceAccountKey.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/controllers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/firebase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/middlewares/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nav/UserNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/routes/LoadingToRedirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/routes/UserRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/History.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/Password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/Wishlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/RegisterComplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/auth/RegisterComplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kKkoCrF5fnVwvYurGtqtrw7YlM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.11" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/config" />
+      <recent name="$PROJECT_DIR$/server/firebase" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9921dce-2a5f-4661-a534-b4de4bf29a59" name="Default Changelist" comment="" />
+      <created>1605456847603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605456847603</updated>
+      <workItem from="1605456851263" duration="2935000" />
+      <workItem from="1605468683701" duration="9728000" />
+      <workItem from="1606141127527" duration="390000" />
+      <workItem from="1606143888305" duration="1572000" />
+      <workItem from="1606147656661" duration="2190000" />
+      <workItem from="1606408141801" duration="86000" />
+      <workItem from="1606408269753" duration="4134000" />
+      <workItem from="1606924956209" duration="2919000" />
+      <workItem from="1609026022406" duration="333000" />
+      <workItem from="1609166143932" duration="141000" />
+      <workItem from="1609166358131" duration="3268000" />
+      <workItem from="1609178364145" duration="47000" />
+      <workItem from="1609178682668" duration="89000" />
+      <workItem from="1609186157147" duration="7211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
